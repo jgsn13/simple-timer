@@ -1,5 +1,7 @@
 # timer-app
 
+![screenshot](timer.png "Simple Timer")
+
 ## Project setup
 ```
 npm install
